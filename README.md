@@ -1,6 +1,6 @@
 > PRIMEIROS ESTUDOS SOBRE COMANDOS **GIT** e APLICAÇÃO DE **MARKDOWN**
 ## COMANDOS GIT ESTUDADOS E SUAS RESPECTIVAS FUNÇÕES 
-
+teste
 + **$ git init**
 > Inicializa repositório  
 + **$ git status**
