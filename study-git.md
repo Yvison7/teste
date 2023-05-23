@@ -3,7 +3,6 @@
 >INSTALÇÃO [AQUI](git-scm.com)
 
 
-
 > O QUE É GIT :
 
 É um sistema de controle de versão distribuído,ou seja, o Git é capaz de registrar as mudanças que ocorrem no codigo fonte de um projeto fazendo com que os arquivos possam ser alterados de forma simultânea por varias pessoas
